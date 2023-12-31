@@ -1,0 +1,1 @@
+cp /mednafen-git-master/src/mednafen /host
